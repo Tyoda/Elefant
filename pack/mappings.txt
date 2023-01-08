@@ -1,0 +1,4 @@
+
+
+model.mod.tyoda.elefant.WoodenElephant              = model/items/elephant.wom
+model.mod.tyoda.elefant.WoodenElephant.unfinished   = model/items/strangeBone.wom
